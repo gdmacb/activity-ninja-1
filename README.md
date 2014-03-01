@@ -1,2 +1,2 @@
-acttivity-ninja-1
+activity-ninja-1
 =================
